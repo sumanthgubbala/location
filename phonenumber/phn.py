@@ -1,6 +1,5 @@
 import phonenumbers
 from test import number 
-
 from phonenumbers import geocoder
 from phonenumbers import carrier
 phn =phonenumbers.parse(number, "CH")
